@@ -1,6 +1,6 @@
 # Jack Beach
 
-I'm a product manager who's spent the last couple of years going deep on AI as infrastructure — less "what can ChatGPT do?", more "how do you actually build production systems on top of these models?"
+I'm a product lead who's spent the last couple of years going deep on AI as infrastructure — less "what can ChatGPT do?", more "how do you actually build production systems on top of these models?"
 
 What that looks like in practice is a lot of small, durable artifacts: prompts that run on schedules, skills that extend Claude in specific directions, frameworks for deciding when to reach for which primitive. Most of it lives here, open-source.
 
