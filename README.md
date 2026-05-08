@@ -10,7 +10,7 @@ What that looks like in practice is a lot of small, durable artifacts: prompts t
 
 - **[claude-skills](https://github.com/jackbeach/claude-skills)** — sanitized versions of Claude Skills I've built. Skills sit one level deeper than prompts — they're the system primitives that other prompts and agents invoke.
 
-- **[30a-beach-tracker](https://github.com/jackbeach/30a-beach-tracker)** — a vibe-coded mobile prototype scoring 30A beaches across foot traffic, weather, parking, and water clarity. Equal parts product sketch and field notes on where AI tooling holds up versus breaks down at the edges of a real product.
+- [COMING SOON] **[30a-beach-tracker](https://github.com/jackbeach/30a-beach-tracker)** — a vibe-coded mobile prototype scoring 30A beaches across foot traffic, weather, parking, and water clarity. Equal parts product sketch and field notes on where AI tooling holds up versus breaks down at the edges of a real product.
 
 - **[ai-playbook](https://github.com/jackbeach/ai-playbook)** — essays and decision frameworks. The repo I write in when something's been bothering me long enough that I want to think it through properly.
 
