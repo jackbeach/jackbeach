@@ -1,6 +1,6 @@
 # Hi, I'm Jack 👋
 
-I'm a product lead who's spent the last couple of years going deep on AI as infrastructure. Less "what can ChatGPT do?", more "how do you actually build production systems on top of these models?"
+I'm a product lead who's spent the last couple of years going deep on AI as infrastructure. Less "what can ChatGPT do?", more "how do you _actually_ build production systems on top of these models?"
 
 Most of my work lives at the intersection of product judgment and hands-on building: agentic workflows in production, reference architectures for LLM systems, and the unglamorous parts nobody writes about, like credential management, failure recovery, and keeping automations running at 6 AM when nobody is watching.
 
