@@ -27,7 +27,7 @@ The shape of product work in an AI-native company. The decision space between pr
 
 ## How I got here
 
-Fifteen years of B2B SaaS product leadership, from 0-to-1 builds through enterprise scale, including VP of Product at INGENIOUS.BUILD (6.3x ARR growth) and product leadership roles across construction tech and sports tech.
+Fifteen years of B2B SaaS product leadership, from 0-to-1 builds through enterprise scale, including VP of Product at INGENIOUS.BUILD (6.3x ARR growth) and product leadership roles across contech, proptech, fintech, cybersecurity and sports entertainment.
 
 Before SaaS, I spent a decade in water infrastructure across sub-Saharan Africa, where I helped build one of the continent's first IoT water monitoring networks. That work earned Forbes coverage and a presidential commendation from the Government of Rwanda, and it's where I learned that the hard part of any system is never the demo. It's keeping it alive in the field.
 
