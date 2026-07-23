@@ -1,6 +1,6 @@
 # Hi, I'm Jack 👋
 
-I'm a product lead who's spent the last couple of years going deep on AI as infrastructure — less "what can ChatGPT do?", more "how do you actually build production systems on top of these models?"
+I'm a product lead who's spent the last couple of years going deep on AI as infrastructure. Less "what can ChatGPT do?", more "how do you actually build production systems on top of these models?"
 
 Most of my work lives at the intersection of product judgment and hands-on building: agentic workflows in production, reference architectures for LLM systems, and the unglamorous parts nobody writes about, like credential management, failure recovery, and keeping automations running at 6 AM when nobody is watching.
 
@@ -31,7 +31,7 @@ Fifteen years of B2B SaaS product leadership, from 0-to-1 builds through enterpr
 
 Before SaaS, I spent a decade in water infrastructure across sub-Saharan Africa, where I helped build one of the continent's first IoT water monitoring networks. That work earned Forbes coverage and a presidential commendation from the Government of Rwanda, and it's where I learned that the hard part of any system is never the demo. It's keeping it alive in the field.
 
-I hold an M.S. in Engineering Management (UT Knoxville) and a B.S. in Mechanical Engineering Technology (MTSU). I also speak Kinyarwanda, which surprises people in stand-ups.
+I hold an M.S. in Engineering Management (UT Knoxville) and a B.S. in Mechanical Engineering Technology (MTSU). I also speak Kinyarwanda, which surprises people in stand-ups lol.
 
 ## Stack
 
