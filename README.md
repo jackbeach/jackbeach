@@ -1,42 +1,47 @@
-# Hi, I'm Jack 👋
+# Product leader who ships.
 
-I'm a product lead who's spent the last couple of years going deep on AI as infrastructure. Less "what can ChatGPT do?", more "how do you _actually_ build production systems on top of these models?"
+Fifteen years in product, from zero-to-one through scale, including 6.3× ARR in 24 months as VP of Product at INGENIOUS.BUILD and a decade deploying IoT water monitoring across 15+ African nations. These days I also build the AI systems hands-on.
 
-Most of my work lives at the intersection of product judgment and hands-on building: agentic workflows in production, reference architectures for LLM systems, and the unglamorous parts nobody writes about, like credential management, failure recovery, and keeping automations running at 6 AM when nobody is watching.
+I work where product judgment meets production engineering: agentic workflows that run unattended, LLM architectures that hold up against real data, and the unglamorous parts (credentials, retries, monitoring) that decide whether an automation is still working at 6 AM when nobody's watching.
 
-## What I'm doing now
+📍 Nashville, TN · [LinkedIn](https://www.linkedin.com/in/jackbeach) · [X](https://x.com/jack_beach)
 
-- **Leading product strategy and growth for [Xodo Sign](https://www.xodosign.com) at Apryse**, a $6M ARR e-signature platform with 25M+ installs sending 17K documents per day
-- **Building AI prototypes for enterprise clients** modernizing their operations: agentic layers on top of industrial data stacks, working software in weeks instead of roadmap decks
-- **Founder of Steward**, the verification layer for philanthropic and development capital. Data fusion across IoT telemetry and field reporting, so funders can trust what their money actually built
-- **Running a 24/7 agentic automation server**, a headless Mac Mini orchestrating Claude, that handles my morning briefings, competitive intelligence, reporting, and research monitors
+---
 
-## What's in this profile
+### Now
 
-| Repo | What it is |
-|------|-----------|
-| [AI-prompts](https://github.com/jackbeach/AI-prompts) | Production prompts for automated intelligence work. A four-prompt weekly operating cadence (daily brief, Monday prep, Wednesday review, Friday wrap) plus a monthly competitive intelligence brief. These are the actual prompts I run, sanitized for reuse. |
-| [claude-skills](https://github.com/jackbeach/claude-skills) | Portable Claude Skills: reusable instruction modules that give the model durable context for recurring workflows. The layer between "a good prompt" and "an agent." |
-| [ai-playbook](https://github.com/jackbeach/ai-playbook) | Longer-form writing on building with AI as an operating system rather than a tool. Architecture decisions, prompts vs. skills vs. agents, and lessons from running agentic systems against real work. |
+- **Product strategy and growth for [Xodo Sign](https://www.xodosign.com) at Apryse.** E-signature at 25M+ installs; pricing, paywalls, and conversion.
+- **Founder of Steward**, a verification layer for philanthropic and development capital. It brings together IoT telemetry, mobile-money ledgers, beneficiary sampling, and satellite imagery, and grades every claim on a three-tier standard: *Reported → Corroborated → Verified*. Piloting in Rwanda; running on Cloudflare Workers.
 
-Plenty of my commits land in private repos. The public ones are patterns; the private ones are operations.
+### Side projects
 
-## What I'm thinking about
+- **Always-on agent server.** A headless Mac Mini running 15+ scheduled Claude workflows: daily intelligence briefs, competitive monitoring, reporting, and research. Several of the prompts are public in [AI-prompts](https://github.com/jackbeach/AI-prompts).
+- **StackScroll** *(in development)*. An AI attention queue that pulls signals from email, calendar, and task apps, scores them, and routes each one: delegate to AI, add to tasks, do now, or ignore. Cloudflare Workers, Queues, D1, and Vectorize behind an Expo app for web and mobile.
+- **Industrial operations command center** *(prototype)*. Discovery to working demo for an industrial operator: plant-floor data flowing Ignition → Canary → PostgreSQL → React, giving leadership live throughput visibility.
+- **Daily allowance agent** *(in progress)*. Reads household budgeting data each morning and texts a short spending allowance for the day. A dashboard nobody opens, turned into a message people act on.
+- **Scripture-reading app.** Designed a React Native / Expo reading app for a ministry partner, then handed the spec to Claude Code for the build.
 
-The shape of product work in an AI-native company. The decision space between prompts, skills, and agents. How verification, trust, and feedback loops work when AI is doing real operational work, not just chat.
+### Public work
 
-## How I got here
+**[AI-prompts](https://github.com/jackbeach/AI-prompts)**: prompts I run on a schedule, sanitized for reuse. A four-part weekly cadence (daily brief → Monday prep → Wednesday review → Friday wrap) where each prompt builds on the others' output, plus a monthly competitive-intelligence brief that triangulates eight categories of public signals. MIT licensed.
 
-Fifteen years of B2B SaaS product leadership, from 0-to-1 builds through enterprise scale, including VP of Product at INGENIOUS.BUILD (6.3x ARR growth) and product leadership roles across contech, proptech, fintech, cybersecurity and sports entertainment.
+Everything else above lives in private repos. Happy to walk through any of it.
 
-Before SaaS, I spent a decade in water infrastructure across sub-Saharan Africa, where I helped build one of the continent's first IoT water monitoring networks. That work earned Forbes coverage and a presidential commendation from the Government of Rwanda, and it's where I learned that the hard part of any system is never the demo. It's keeping it alive in the field.
+### How I think about building with AI
 
-I hold an M.S. in Engineering Management (UT Knoxville) and a B.S. in Mechanical Engineering Technology (MTSU). I also speak Kinyarwanda, which surprises people in stand-ups lol.
+- **Prompts, skills, and agents are different tools.** Use the lightest one that can hold the context the job needs.
+- **Intelligence is prediction, not reporting.** Tell me what changed and what's about to matter.
+- **The demo is the easy part.** Reliability, verification, and feedback loops are the product.
 
-## Stack
+### Background
 
-`Claude (API, Code, Cowork)` · `Amazon Bedrock` · `MCP` · `Agentic orchestration` · `Notion & Jira automation` · `React Native` · `Supabase` · `Python`
+- **VP of Product, INGENIOUS.BUILD**: 6.3× ARR in 24 months
+- **Head of Product, Golf Live**: zero to recurring revenue
+- **Head of Product, PHP Software**: fintech in East Africa
+- **IoT water infrastructure, 15+ African nations**: helped build one of the continent's first remote water-monitoring networks, covered by Forbes and recognized with a presidential commendation from the Government of Rwanda. It's where I learned the hard part of any system is keeping it alive in the field.
 
-## Reach me
+M.S. Engineering Management, UT Knoxville · B.S. Mechanical Engineering Technology, MTSU · Professional Kinyarwanda
 
-[LinkedIn](https://www.linkedin.com/in/jackbeach) is the best place. Always happy to compare notes with people building in this space.
+### Stack
+
+`Claude API` `Claude Code` `MCP` `Amazon Bedrock` `Cloudflare Workers` `Supabase` `React Native / Expo` `TypeScript` `Python` `Statsig` `Heap`
