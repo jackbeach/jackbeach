@@ -13,7 +13,9 @@ I work where product judgment meets production engineering: agentic workflows th
 - **Product strategy and growth for [Xodo Sign](https://www.xodosign.com) at Apryse.** E-signature at 25M+ installs; pricing, paywalls, and conversion.
 - **Founder of Steward**, a verification layer for philanthropic and development capital. It brings together IoT telemetry, mobile-money ledgers, beneficiary sampling, and satellite imagery, and grades every claim on a three-tier standard: *Reported → Corroborated → Verified*. Piloting in Rwanda; running on Cloudflare Workers.
 
-### Side projects
+### Recent builds
+
+Where I work out what AI can actually do before asking a team to build it.
 
 - **Always-on agent server.** A headless Mac Mini running 15+ scheduled Claude workflows: daily intelligence briefs, competitive monitoring, reporting, and research. Several of the prompts are public in [AI-prompts](https://github.com/jackbeach/AI-prompts).
 - **StackScroll** *(in development)*. An AI attention queue that pulls signals from email, calendar, and task apps, scores them, and routes each one: delegate to AI, add to tasks, do now, or ignore. Cloudflare Workers, Queues, D1, and Vectorize behind an Expo app for web and mobile.
