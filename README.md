@@ -1,49 +1,56 @@
-# Product leader who ships.
+# Jack Beach
 
-Fifteen years in product, from zero-to-one through scale, including 6× ARR in 24 months as VP of Product at INGENIOUS.BUILD and a decade deploying IoT water monitoring across 15+ African nations. These days I also build the AI systems hands-on.
+**AI & Growth Product Leader · Former VP of Product · Builder**
 
-I work where product judgment meets production engineering: agentic workflows that run unattended, LLM architectures that hold up against real data, and the unglamorous parts (credentials, retries, monitoring) that decide whether an automation is still working at 6 AM when nobody's watching.
+I find the leverage in complex systems — then build what it takes to unlock it.
 
-📍 Nashville, TN · [LinkedIn](https://www.linkedin.com/in/jackbeach) · [X](https://x.com/jack_beach)
+My background spans 15 years in product, from deploying technology across Africa to building SaaS businesses, leading product organizations, and bringing AI into real workflows.
+
+At INGENIOUS.BUILD, I helped grow ARR 6× in two years. I've held VP and Head of Product roles, led products serving millions, and worked across enterprise SaaS, fintech, infrastructure, and digital workflows.
+
+These days, I work at the intersection of product strategy, growth, and applied AI. I still build hands-on because there's no substitute for understanding what the technology can actually do.
+
+**Nashville, TN** · [LinkedIn](https://www.linkedin.com/in/jackbeach) · [X](https://x.com/jack_beach)
 
 ---
 
-### Now
+### What I'm working on
 
-- **Product strategy and growth for [Xodo Sign](https://www.xodosign.com) at Apryse.** E-signature at 25M+ installs; pricing, paywalls, and conversion.
-- **Founder of Steward**, a verification layer for philanthropic and development capital. It brings together IoT telemetry, mobile-money ledgers, beneficiary sampling, and satellite imagery, and grades every claim on a three-tier standard: *Reported → Corroborated → Verified*. Piloting in Rwanda; running on Cloudflare Workers.
+**Growth & AI products**  
+Focused on product-led growth at ZoomInfo's GTM.ai, following my work leading product strategy and growth for Xodo Sign at Apryse.
 
-### Recent builds
+**[Steward](https://github.com/jackbeach)**  
+A verification platform for philanthropic and development capital. It brings together IoT telemetry, financial records, field evidence, and AI to distinguish what's reported from what's actually verified.
 
-Where I work out what AI can actually do before asking a team to build it.
+**Applied AI systems**  
+Building and testing agentic workflows, autonomous research, and AI-native interfaces. I'm particularly interested in the difference between an impressive demo and something that works reliably in production.
 
-- **Always-on agent server.** A headless Mac Mini running 15+ scheduled Claude workflows: daily intelligence briefs, competitive monitoring, reporting, and research. Several of the prompts are public in [AI-prompts](https://github.com/jackbeach/AI-prompts).
-- **StackScroll** *(in development)*. An AI attention queue that pulls signals from email, calendar, and task apps, scores them, and routes each one: delegate to AI, add to tasks, do now, or ignore. Cloudflare Workers, Queues, D1, and Vectorize behind an Expo app for web and mobile.
-- **Industrial operations command center** *(prototype)*. Discovery to working demo for an industrial operator: plant-floor data flowing Ignition → Canary → PostgreSQL → React, giving leadership live throughput visibility.
-- **Daily allowance agent** *(in progress)*. Reads household budgeting data each morning and texts a short spending allowance for the day. A dashboard nobody opens, turned into a message people act on.
-- **Scripture-reading app.** Designed a React Native / Expo reading app for a ministry partner, then handed the spec to Claude Code for the build.
+### Selected builds
 
-### Public work
+| Project | What I'm exploring |
+|---|---|
+| **Always-on AI agent system** | 15+ scheduled AI workflows running on a headless Mac Mini for research, monitoring, reporting, and decision support. |
+| **StackScroll** · In development | An AI-powered attention queue that turns signals from everyday work tools into decisions and actions. Built with Cloudflare Workers, Queues, D1, Vectorize, and Expo. |
+| **Industrial operations command center** · Prototype | Connected plant-floor data from Ignition and Canary to PostgreSQL and React for operational visibility. |
+| **Steward** · Pilot | Evidence verification using multiple data sources and a reported → corroborated → verified standard. |
+| **[AI Prompts](https://github.com/jackbeach/AI-prompts)** | Reusable prompts for recurring intelligence, planning, and competitive research. Open source under MIT. |
 
-**[AI-prompts](https://github.com/jackbeach/AI-prompts)**: prompts I run on a schedule, sanitized for reuse. A four-part weekly cadence (daily brief → Monday prep → Wednesday review → Friday wrap) where each prompt builds on the others' output, plus a monthly competitive-intelligence brief that triangulates eight categories of public signals. MIT licensed.
+Most of my work lives in private repositories or commercial environments.
 
-Everything else above lives in private repos. Happy to walk through any of it.
+### What I've learned
 
-### How I think about building with AI
+**The hard part isn't making AI work once. It's making it dependable.**
 
-- **Prompts, skills, and agents are different tools.** Use the lightest one that can hold the context the job needs.
-- **Intelligence is prediction, not reporting.** Tell me what changed and what's about to matter.
-- **The demo is the easy part.** Reliability, verification, and feedback loops are the product.
+I care about reliability, traceability, human oversight, and the economics of deploying AI at scale — not just model capabilities.
 
-### Background
+The same principle applies to product strategy: understanding the entire system matters more than optimizing any single feature.
 
-- **VP of Product, INGENIOUS.BUILD**: 6.3× ARR in 24 months
-- **Head of Product, Golf Live**: zero to recurring revenue
-- **Head of Product, PHP Software**: fintech in East Africa
-- **IoT water infrastructure, 15+ African nations**: helped build one of the continent's first remote water-monitoring networks, covered by Forbes and recognized with a presidential commendation from the Government of Rwanda. It's where I learned the hard part of any system is keeping it alive in the field.
+### A little background
 
-M.S. Engineering Management, UT Knoxville · B.S. Mechanical Engineering Technology, MTSU · Professional Kinyarwanda
+Before enterprise SaaS, I spent a decade living and working in Africa, helping deploy technology across more than 15 countries in water infrastructure, healthcare, financial services, and agriculture.
 
-### Stack
+That experience shaped how I approach technology. Real-world constraints have a way of revealing which problems actually matter.
 
-`Claude API` `Claude Code` `MCP` `Amazon Bedrock` `Cloudflare Workers` `Supabase` `React Native / Expo` `TypeScript` `Python` `Statsig` `Heap`
+**Education:** M.S. Engineering Management, University of Tennessee, Knoxville · B.S. Mechanical Engineering Technology, Middle Tennessee State University
+
+**Tools I work with:** `Claude` · `MCP` · `Amazon Bedrock` · `Cloudflare Workers` · `Supabase` · `TypeScript` · `Python` · `React Native / Expo` · `Statsig` · `Heap`
