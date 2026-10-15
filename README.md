@@ -1,6 +1,6 @@
 # Product leader who ships.
 
-Fifteen years in product, from zero-to-one through scale, including 6.3× ARR in 24 months as VP of Product at INGENIOUS.BUILD and a decade deploying IoT water monitoring across 15+ African nations. These days I also build the AI systems hands-on.
+Fifteen years in product, from zero-to-one through scale, including 6× ARR in 24 months as VP of Product at INGENIOUS.BUILD and a decade deploying IoT water monitoring across 15+ African nations. These days I also build the AI systems hands-on.
 
 I work where product judgment meets production engineering: agentic workflows that run unattended, LLM architectures that hold up against real data, and the unglamorous parts (credentials, retries, monitoring) that decide whether an automation is still working at 6 AM when nobody's watching.
 
