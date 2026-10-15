@@ -19,9 +19,6 @@ These days, I work at the intersection of product strategy, growth, and applied 
 **Growth & AI products**  
 Focused on product-led growth at ZoomInfo's GTM.ai, following my work leading product strategy and growth for Xodo Sign at Apryse.
 
-**[Steward](https://github.com/jackbeach)**  
-A verification platform for philanthropic and development capital. It brings together IoT telemetry, financial records, field evidence, and AI to distinguish what's reported from what's actually verified.
-
 **Applied AI systems**  
 Building and testing agentic workflows, autonomous research, and AI-native interfaces. I'm particularly interested in the difference between an impressive demo and something that works reliably in production.
 
